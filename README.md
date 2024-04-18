@@ -1,1 +1,1 @@
-Portfolio to highlight my CATIA skills
+Portfolio which highlights my CATIA skills
